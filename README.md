@@ -10,7 +10,9 @@ This model is a distilled version derived from the original **`Qwen3-8B`**. Key 
 ## Parameters
 
 The parameters are too big to be uploaded to gradescope or github, so please visit Google Cloud for the parameters:
+
 https://storage.cloud.google.com/cs601-distillation-project-model-parameters/model-00002-of-00002.safetensors
+
 https://storage.cloud.google.com/cs601-distillation-project-model-parameters/model-00001-of-00002.safetensors
 
 **Note:** Download the safetensors to the following position:
